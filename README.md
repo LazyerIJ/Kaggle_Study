@@ -1,6 +1,6 @@
 # Kaggle Study Group
 
-@2019.11.23 Start
+@2019.11.23 README
 
 
 
@@ -11,6 +11,8 @@
    
 
 2. **진행 일정**
+
+   Skype를 활용한 Online 진행
 
    주 1회 진행 (Competition 참여 시 필요에 따라 2회 진행)
 
@@ -27,6 +29,12 @@
    EDA, Pre-Processing, ML/DL, EVAL 등 단계적으로 함께 진행하며 토론
 
    2019.1월에 Active Competition 참여 목표
+
+   
+
+   Competition 선택 시 정형 데이터를 위주로 먼저 진행
+
+   (오디오 / 이미지 / 텍스트 등의 데이터는 DL의 비중이 큰 관계로 추후 진행)
 
    
 

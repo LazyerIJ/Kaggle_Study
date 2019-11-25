@@ -24,9 +24,11 @@
 
 3. **진행 방식**
 
+   Competition 선정
+
    Completed Competition 1~2회 학습 -> Active Competition
 
-   EDA, Pre-Processing, ML/DL, EVAL 등 단계적으로 함께 진행하며 토론
+   학습 진도를 맞추기 위하여 EDA, Pre-Processing, ML/DL, EVAL 등 단계적으로 함께 진행하며 토론
 
    2019.1월에 Active Competition 참여 목표
 
@@ -40,13 +42,13 @@
 
 4. **회의 순서**
 
-   각자 발표 주제 설명
+   각자 발표 내용 간단히 설명 ( 함께 선택한 Competition )
 
-   발표 및 질의
+   돌아가며 발표 및 질의
 
-   계획 논의
+   추후 계획 논의
 
-   (자료 업로드)
+   (Git에 자료 업로드)
 
    
 
@@ -54,7 +56,7 @@
 
    Github Repository 이용
 
-   발표 내용 정리 및 코드 공유
+   -> 발표 내용 정리 및 코드 공유
 
    
 

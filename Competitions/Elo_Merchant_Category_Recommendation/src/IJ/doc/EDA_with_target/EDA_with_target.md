@@ -1,6 +1,6 @@
 
 
-# Kaggle Study - IJ
+# ELO_MERCHANT@EDA_WITH_TARGET
 
 @2019.12.08
 
@@ -18,6 +18,22 @@
 1. **Data**
 
    all_trans_df = pd.merge(all_trans_df, train_df, on=['card_id'], how='left')
+
+   
+
+   **target < -30**
+
+   ```python
+   cnt = 0
+   for id in train_df[train_df.target<-30].card_id.values:
+       size = len(train_df[train_df['card_id']==id])
+       if size>1:
+           cnt += 1
+   print(cnt)
+   # 0
+   ```
+
+   - target이 -30 인 card_id의 경우 다른 
 
    ---
 
@@ -92,7 +108,7 @@
 
    
 
-   - authorized_flag에 따른 feature_1,2,3과 category_1,2,3의 분포는 비슷해 보임
+   - authorized_flag에 따른 feature_1,2,3과 category_1,2,3의 분포는 비슷해 보이지 않음.
 
 ---
 

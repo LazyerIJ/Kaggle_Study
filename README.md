@@ -22,7 +22,7 @@
 
    <br/>
 
-3. **Competition  진행 **
+3. **Competition  진행**
 
    Competition 선정
 
@@ -71,9 +71,9 @@
      Study Group의 효율적인 운영
 
      전반적인 조율 및 문제 해결
-    
+   
      <br/>
-    
+   
    - **회의 일정 및 시간 관리 : 오준석님**
 
      회의 일정 정하기

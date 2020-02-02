@@ -2,7 +2,7 @@
 
 @김인주, 황지명, 오준석
 
-[kaggle][https://www.kaggle.com/competitions] / [github][https://github.com/LazyerIJ/Kaggle_Study/tree/master/Competitions/Predict_Future_Sales]
+[kaggle](https://www.kaggle.com/competitions) / [github](https://github.com/LazyerIJ/Kaggle_Study/tree/master/Competitions/Predict_Future_Sales)
 
 
 

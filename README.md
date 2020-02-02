@@ -1,6 +1,6 @@
 # Kaggle Study Group
 
-@2019.11.23 README
+@2019.11.23 ~ 
 
 
 

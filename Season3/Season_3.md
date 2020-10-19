@@ -31,3 +31,22 @@
      <br/>
 
 
+2. **대회 진행 순서**
+
+
+    - 심리성향예측(~11/22) - 데이콘
+
+        [https://dacon.io/competitions/official/235647/overview/](https://dacon.io/competitions/official/235647/overview/)
+
+    - Flowers Recognition - Kaggle
+
+        [https://www.kaggle.com/alxmamaev/flowers-recognition](https://www.kaggle.com/alxmamaev/flowers-recognition)
+
+    - Don't overfit! - Kaggl
+        
+        [https://www.kaggle.com/c/dont-overfit-ii/notebooks](https://www.kaggle.com/c/dont-overfit-ii/notebooks)
+    
+    - 시계열 + 금융 관련 Competition
+
+     <br/>
+
